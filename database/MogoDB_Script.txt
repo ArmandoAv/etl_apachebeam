@@ -1,0 +1,46 @@
+Create the next directories in a cmd terminal with admin privileges
+mkdir C:\data\db\
+mkdir C:\data\log\
+
+Run the msi file in a cmd terminal with admin privileges
+In this case the file is mongodb-win32-x86_64-2012plus-4.2.25-signed.msi
+msiexec -i C:\download_msi_path_file\mongodb-win32-x86_64-2012plus-4.2.25-signed.msi
+
+When the installer asks for the data and log paths, you must enter the path of the created directories.
+
+Run the next commands in a cmd terminal with admin privileges
+cd C:\Program Files\MongoDB\Server\4.2\bin
+mongod.exe
+
+Open another cmd terminal with admin privileges and run the following file 
+cd C:\Program Files\MongoDB\Server\4.2\bin
+mongo.exe
+
+Create or select COVID database with the next command
+use covid
+
+Create covid analysis collection with the next command
+db.createCollection("covid_analysis")
+
+Create covid date analysis collection with the next command
+db.createCollection("covid_date_analysis")
+
+Create covid countries collection with the next command
+db.createCollection("covid_country")
+
+Create index in the collections with the next commands
+db.covid_analysis.createIndex({REPORT_DATE: 1, COUNTRY_NAME : 1, PROVINCE_STATE_NAME : 1, COUNTY_NAME : 1})
+
+db.covid_date_analysis.createIndex({REPORT_DATE: 1})
+
+Consult the collections created
+db.getCollectionNames()
+
+Consult the indexes created
+db.covid_analysis.getIndexes()
+db.covid_date_analysis.getIndexes()
+
+Number of documents in the collections
+db.covid_analysis.count()
+db.covid_date_analysis.count()
+db.covid_country.count()

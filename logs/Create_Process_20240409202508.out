@@ -1,0 +1,15 @@
+
+The Create process has started at 09 April 2024 08:26:38 PM.
+
+Truncate table...
+
+Delete possible tmp files...
+
+Starting upload to table...
+
+The table COVID_19_COUNTRIES data has been loaded with 231 records into SQL Server.
+
+The Create process has finished successfully.
+
+The Create process has finished at 09 April 2024 08:26:51 PM.
+

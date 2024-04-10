@@ -1,0 +1,51 @@
+
+The Transform process has started at 09 April 2024 08:29:36 PM.
+
+The transformations are being processed...
+
+Delete possible old files...
+
+Slipt Activity file between a file with correct columns and a
+file with columns with doble quotes, commas in some descriptions.
+Finally, fixed the second file.
+
+Concatenate the correct columns file and the fixed wrong columns file.
+
+Delete possible old files...
+
+There are some files or directories to delete.
+
+Slipt the new Activity file between a file with correct columns
+and a file with empty columns in some alpha code countries.
+
+Updated the file with empty columns in some alpha code countries
+with the correct alpha codes.
+
+Concatenate the correct columns file and the updated wrong columns file.
+
+Delete possible old files...
+
+There are some files or directories to delete.
+
+Creating the Activity json file to upload to database...
+
+Delete possible old files...
+
+Creating the Monthly Max Date file...
+
+Creating the Monthly Max Date file with all columns...
+
+Creating the Activity json file to upload to database...
+
+Delete possible old files...
+
+There are some files or directories to delete.
+
+Creating the Country json file to upload to database...
+
+Delete possible old files...
+
+The Transform process has finished successfully.
+
+The Transform process has finished at 09 April 2024 09:03:48 PM.
+

@@ -1,0 +1,8 @@
+py -3.8 -m venv venv
+pip3.8 install apache-beam[gcp] httplib2 protobuf
+pip3.8 install pyodbc
+pip3.8 install python-dotenv
+pip3.8 install python-decouple
+pip3.8 install pymongo
+
+https://data.world/covid-19-data-resource-hub/covid-19-case-counts

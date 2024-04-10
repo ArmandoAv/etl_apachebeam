@@ -1,0 +1,232 @@
+COUNTRY_ALPHA_3_CODE,COUNTRY_SHORT_NAME,COUNTRY_ALPHA_2_CODE
+SHN,Saint Helena Ascension and Tristan da Cunha,SH
+ATA,Antarctica,AQ
+COK,Cook Islands,CK
+GGY,Guernsey,GG
+JER,Jersey,JE
+KIR,Kiribati,KI
+FSM,Micronesia,FM
+PLW,Palau,PW
+SUM,Summer Olympics 2020,SU
+TON,Tonga,TO
+WLF,Wallis and Futuna,WF
+WIN,Winter Olympics 2022,WN
+ABW,Aruba,AW
+AFG,Afghanistan,AF
+AGO,Angola,AO
+AIA,Anguilla,AI
+ALB,Albania,AL
+AND,Andorra,AD
+ARE,United Arab Emirates,AE
+ARG,Argentina,AR
+ARM,Armenia,AM
+ATG,Antigua and Barbuda,AG
+AUS,Australia,AU
+AUT,Austria,AT
+AZE,Azerbaijan,AZ
+BDI,Burundi,BI
+BEL,Belgium,BE
+BEN,Benin,BJ
+BES,Bonaire Sint Eustatius and Saba,BQ
+BFA,Burkina Faso,BF
+BGD,Bangladesh,BD
+BGR,Bulgaria,BG
+BHR,Bahrain,BH
+BHS,Bahamas,BS
+BIH,Bosnia and Herzegovina,BA
+BLM,Saint Barthelemy,BL
+BLR,Belarus,BY
+BLZ,Belize,BZ
+BMU,Bermuda,BM
+BOL,Bolivia,BO
+BRA,Brazil,BR
+BRB,Barbados,BB
+BRN,Brunei,BN
+BTN,Bhutan,BT
+BUR,Burma,BU
+BWA,Botswana,BW
+CAF,Central African Republic,CF
+CAN,Canada,CA
+CHE,Switzerland,CH
+CHL,Chile,CL
+CHN,China,CN
+CIV,Cote d'Ivoire,CI
+CMR,Cameroon,CM
+COD,Congo (Kinshasa),CD
+COG,Congo (Brazzaville),CG
+COL,Colombia,CO
+COM,Comoros,KM
+CPV,Cabo Verde,CV
+CRI,Costa Rica,CR
+CUB,Cuba,CU
+CUW,Curacao,CW
+CYM,Cayman Islands,KY
+CYP,Cyprus,CY
+CZE,Czechia,CZ
+DEU,Germany,DE
+DJI,Djibouti,DJ
+DMA,Dominica,DM
+DNK,Denmark,DK
+DOM,Dominican Republic,DO
+DZA,Algeria,DZ
+ECU,Ecuador,EC
+EGY,Egypt,EG
+ERI,Eritrea,ER
+ESP,Spain,ES
+EST,Estonia,EE
+ETH,Ethiopia,ET
+FIN,Finland,FI
+FJI,Fiji,FJ
+FLK,Falkland Islands (Malvinas),FK
+FRA,France,FR
+FRO,Faroe Islands,FO
+GAB,Gabon,GA
+GBR,Channel Islands,GB
+GBR,United Kingdom,GB
+GEO,Georgia,GE
+GHA,Ghana,GH
+GIB,Gibraltar,GI
+GIN,Guinea,GN
+GLP,Guadeloupe,GP
+GMB,Gambia,GM
+GNB,Guinea-Bissau,GW
+GNQ,Equatorial Guinea,GQ
+GRC,Greece,EL
+GRD,Grenada,GD
+GRL,Greenland,GL
+GTM,Guatemala,GT
+GUF,French Guiana,GF
+GUM,United States,GU
+GUY,Guyana,GY
+HND,Honduras,HN
+HRV,Croatia,HR
+HTI,Haiti,HT
+HUN,Hungary,HU
+IDN,Indonesia,ID
+IMN,Isle of Man,IM
+IND,India,IN
+IRL,Ireland,IE
+IRN,Iran,IR
+IRQ,Iraq,IQ
+ISL,Iceland,IS
+ISR,Israel,IL
+ITA,Italy,IT
+JAM,Jamaica,JM
+JOR,Jordan,JO
+JPN,Japan,JP
+KAZ,Kazakhstan,KZ
+KEN,Kenya,KE
+KGZ,Kyrgyzstan,KG
+KHM,Cambodia,KH
+KNA,Saint Kitts and Nevis,KN
+KOR,Korea South,KR
+KWT,Kuwait,KW
+LAO,Laos,LA
+LBN,Lebanon,LB
+LBR,Liberia,LR
+LBY,Libya,LY
+LCA,Saint Lucia,LC
+LIE,Liechtenstein,LI
+LKA,Sri Lanka,LK
+LSO,Lesotho,LS
+LTU,Lithuania,LT
+LUX,Luxembourg,LU
+LVA,Latvia,LV
+MAF,St Martin,MF
+MAR,Morocco,MA
+MCO,Monaco,MC
+MDA,Moldova,MD
+MDG,Madagascar,MG
+MDV,Maldives,MV
+MEX,Mexico,MX
+MHL,Marshall Islands,MH
+MKD,North Macedonia,MK
+MLI,Mali,ML
+MLT,Malta,MT
+MNE,Montenegro,ME
+MNG,Mongolia,MN
+MNP,United States,MP
+MOZ,Mozambique,MZ
+MRT,Mauritania,MR
+MSR,Montserrat,MS
+MTQ,Martinique,MQ
+MUS,Mauritius,MU
+MWI,Malawi,MW
+MYS,Malaysia,MY
+MYT,Mayotte,YT
+NAM,Namibia,NA
+NCL,New Caledonia,NC
+NER,Niger,NE
+NGA,Nigeria,NG
+NIC,Nicaragua,NI
+NLD,Netherlands,NL
+NOR,Norway,NO
+NPL,Nepal,NP
+NZL,New Zealand,NZ
+OMN,Oman,OM
+PAK,Pakistan,PK
+PAN,Panama,PA
+PER,Peru,PE
+PHL,Philippines,PH
+PNG,Papua New Guinea,PG
+POL,Poland,PL
+PRI,United States,PR
+PRT,Portugal,PT
+PRY,Paraguay,PY
+PSE,West Bank and Gaza,PS
+PYF,French Polynesia,PF
+QAT,Qatar,QA
+REU,Reunion,RE
+ROU,Romania,RO
+RUS,Russia,RU
+RWA,Rwanda,RW
+SAU,Saudi Arabia,SA
+SDN,Sudan,SD
+SEN,Senegal,SN
+SGP,Singapore,SG
+SLB,Solomon Islands,SB
+SLE,Sierra Leone,SL
+SLV,El Salvador,SV
+SMR,San Marino,SM
+SOM,Somalia,SO
+SPM,Saint Pierre and Miquelon,PM
+SRB,Serbia,RS
+SSD,South Sudan,SS
+STP,Sao Tome and Principe,ST
+SUR,Suriname,SR
+SVK,Slovakia,SK
+SVN,Slovenia,SI
+SWE,Sweden,SE
+SWZ,Eswatini,SZ
+SXM,Sint Maarten,SX
+SYC,Seychelles,SC
+SYR,Syria,SY
+TCA,Turks and Caicos Islands,TC
+TCD,Chad,TD
+TGO,Togo,TG
+THA,Thailand,TH
+TJK,Tajikistan,TJ
+TLS,Timor-Leste,TL
+TTO,Trinidad and Tobago,TT
+TUN,Tunisia,TN
+TUR,Turkey,TR
+TWN,Taiwan,TW
+TZA,Tanzania,TZ
+UGA,Uganda,UG
+UKR,Ukraine,UA
+URY,Uruguay,UY
+USA,United States,US
+UZB,Uzbekistan,UZ
+VAT,Holy See,VA
+VCT,Saint Vincent and the Grenadines,VC
+VEN,Venezuela,VE
+VGB,British Virgin Islands,VG
+VIR,United States,VI
+VNM,Vietnam,VN
+VUT,Vanuatu,VU
+WSM,Samoa,WS
+XKX,Kosovo,XK
+YEM,Yemen,YE
+ZAF,South Africa,ZA
+ZMB,Zambia,ZM
+ZWE,Zimbabwe,ZW
