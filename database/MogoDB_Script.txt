@@ -8,6 +8,23 @@ msiexec -i C:\download_msi_path_file\mongodb-win32-x86_64-2012plus-4.2.25-signed
 
 When the installer asks for the data and log paths, you must enter the path of the created directories.
 
+Change in the C:\Program Files\MongoDB\Server\4.2\bin\mongod.cfg file the next records
+storage:
+
+  dbPath: c:\data\db
+
+  journal:
+
+    enabled: true
+
+systemLog:
+
+  destination: file
+
+  logAppend: true
+
+  path:  c:\data\log\mongod.log
+
 Run the next commands in a cmd terminal with admin privileges
 cd C:\Program Files\MongoDB\Server\4.2\bin
 mongod.exe

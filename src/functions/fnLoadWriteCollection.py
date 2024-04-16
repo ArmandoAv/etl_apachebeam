@@ -7,6 +7,7 @@ import apache_beam as beam
 from apache_beam.io.mongodbio import WriteToMongoDB
 import json
 
+
 # Write the documents
 def fnLoadWriteCollection(mongodb_uri, database_name, collection_name, input_file, batch_size):
 
