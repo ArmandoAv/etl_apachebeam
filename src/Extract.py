@@ -12,8 +12,8 @@
 #                   file_sufix                                                    #
 #                   header                                                        #
 #          Runs fnDeleteFile.py file function with these parameters               #
-#                    path                                                         #
-#                    file_delete                                                  #
+#                   path                                                          #
+#                   file_delete                                                   #
 #          Gets parameters from ETL_Params.py file                                #
 #          Gets file schemas from ETL_Schemas.py file                             #
 # Created: 2024-03                                                                #
